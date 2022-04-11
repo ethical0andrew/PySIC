@@ -1,14 +1,4 @@
-! PySic @ codulluiandrei.ro
-Coded & Compiled by ethical0andrew
-Website: https://codulluiandrei.ro/
-GitHub: https://github.com/ethical0andrew/
-
-! TROUBLESHOOT
-	https://github.com/ethical0andrew/PySIC
-
-! README
-
-! HOW TO USE PySIC
+# HOW TO USE PySIC Web Developer Productivity Helper
 	$ pysic.exe file.html
 	$ notepad pysic_browser.txt // Write inside browser name
 		chrome - for google chrome
@@ -17,6 +7,4 @@ GitHub: https://github.com/ethical0andrew/
 		firefox - for mozilla firefox
 	By default browser is set to Google Chrome
 
-! INSTALL ONLY C: DRIVE PARTITION
-
-// readme_pysic.txt
+### INSTALL ONLY C: DRIVE PARTITION
